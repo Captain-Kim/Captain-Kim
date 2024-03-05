@@ -1,6 +1,11 @@
 <!-- 헤더 -->
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0033ff&height=240&text=Hello,%20World!&animation=&fontColor=000000&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=f7df1e&height=240&text=Learn%20JavaScript&animation=&fontColor=000000&fontSize=70" />
+</div>
+
+<!-- 타이핑 -->
+<div align= "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=noto+sans+kr&pause=1000&color=F2F704&center=true&vCenter=true&random=false&width=435&lines=%ED%94%84%EB%A1%A0%ED%8A%B8+%EC%97%94%EB%93%9C+%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A5%BC+%ED%9D%AC%EB%A7%9D%ED%95%98%EB%8A%94+%EA%B9%80%EB%B3%91%EC%A4%80%EC%9E%85%EB%8B%88%EB%8B%A4." alt="Typing SVG"/></a>
 </div>
 
 <!-- 기술스택 -->
@@ -16,5 +21,7 @@
 
 <!-- 스탯 -->
 <div align= "center"> 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Captain-Kim&bg_color=180,4336f7,00000000&title_color=ffffff&text_color=ffffff"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captain-Kim&layout=compact&bg_color=180,4336f7,00000000&title_color=ffffff&text_color=ffffff"/> </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captain-Kim&layout=compact&bg_color=180,f7df1e,00000000&title_color=000000&text_color=000000"/> </div> 
 </div>
+    
+    
