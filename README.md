@@ -1,4 +1,4 @@
-### Hi there 👋
+### 김병준입니다.
 
 <!--
 **Captain-Kim/Captain-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
