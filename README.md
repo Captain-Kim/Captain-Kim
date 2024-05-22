@@ -1,7 +1,7 @@
 <!-- 헤더 -->
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=f7df1e&height=240&text=Learn%20JavaScript&animation=&fontColor=000000&fontSize=70" />
-</div>
+[    <img src="https://capsule-render.vercel.app/api?type=rect&color=f7df1e&height=240&text=Learn%20JavaScript&animation=&fontColor=000000&fontSize=70" />
+](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Learn%20Web%20Programing)</div>
 
 <!-- 타이핑 -->
 <div align= "center">
